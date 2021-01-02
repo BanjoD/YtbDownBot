@@ -1,1 +1,1 @@
-web: sh target/bin/workerBot
+worker : chmod +x start.sh && bash start.sh
